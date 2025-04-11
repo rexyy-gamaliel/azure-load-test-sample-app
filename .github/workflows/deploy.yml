@@ -8,7 +8,7 @@ permissions:
 
 env:
   # For AZURE_WEBAPP_NAME enter just the name, not the full URL.
-  AZURE_WEBAPP_NAME:  az2006app11063
+  AZURE_WEBAPP_NAME: az2006app11063
   RESOURCE_GROUP: az2006-rg
   
 
